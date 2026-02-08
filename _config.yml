@@ -2,6 +2,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
   - index.md
   - projects.md
+  - books.md
   - about.md
     #footer: HTML string rendered in the footer
 style: dark
