@@ -1,0 +1,10 @@
+    #header_pages: list of page paths to show in the top menu
+    #footer: HTML string rendered in the footer
+  style: dark
+  listen_for_clients_preferred_style: false
+  
+  remote_theme: b2a3e8/jekyll-theme-console
+plugins:
+  - jekyll-seo-tag
+  
+
