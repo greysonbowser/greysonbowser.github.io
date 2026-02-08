@@ -1,4 +1,5 @@
-    #header_pages: list of page paths to show in the top menu
+header_pages:
+    - about.html
     #footer: HTML string rendered in the footer
   style: dark
   listen_for_clients_preferred_style: false
