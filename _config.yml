@@ -1,5 +1,5 @@
 header_pages:
-    - home.md
+    - index.md
     - projects.md
     - about.md
     #footer: HTML string rendered in the footer
