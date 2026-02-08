@@ -1,8 +1,5 @@
+remote_theme: b2a3e8/jekyll-theme-console
 
-  
-  remote_theme: b2a3e8/jekyll-theme-console
-plugins:
-  - jekyll-seo-tag
   header_pages:
     - index.md
     - projects.md
@@ -10,4 +7,6 @@ plugins:
     #footer: HTML string rendered in the footer
   style: dark
   listen_for_clients_preferred_style: false
+  markdown: kramdown
+  
 
