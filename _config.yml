@@ -1,5 +1,7 @@
 header_pages:
-    - about.html
+    - home.md
+    - projects.md
+    - about.md
     #footer: HTML string rendered in the footer
   style: dark
   listen_for_clients_preferred_style: false
