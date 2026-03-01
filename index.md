@@ -13,7 +13,7 @@ undergoing construction..
 [OEIS](https://oeis.org/)
 [UC library](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
 [index of mathematical databases](https://mathbases.org/)
-[$$\pi$$-base](https://topology.pi-base.org/)
+[π-base](https://topology.pi-base.org/)
 [nLab](https://ncatlab.org/nlab/show/HomePage)
 [T. Tao blog](https://terrytao.wordpress.com/)
 [Stacks project](https://stacks.math.columbia.edu/browse)
