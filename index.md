@@ -20,6 +20,7 @@ undergoing construction..
 
 ### Read later
 
+[John Conway paper on counting groups](https://www.math.auckland.ac.nz/~obrien/research/gnu.pdf)
 [Conrad SL(2,R)] (https://kconrad.math.uconn.edu/blurbs/grouptheory/SL(2,R).pdf)
 [Tao on groupoid cardinality](https://terrytao.wordpress.com/2017/04/13/counting-objects-up-to-isomorphism-groupoid-cardinality/)
 [Keith Conrad expository papers](https://kconrad.math.uconn.edu/blurbs/)
